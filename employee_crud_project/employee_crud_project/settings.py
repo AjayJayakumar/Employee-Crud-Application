@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'employee_crud_project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'employee_crud',
+        'NAME': 'employee_crud_app',
         'USER': 'postgres',
         'PASSWORD': 'postgres',
         'HOST': 'localhost',
